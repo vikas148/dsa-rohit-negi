@@ -17,7 +17,7 @@ while(start<=end){
 
     //arr[mid]>key
     else
-    end=end-1;
+    end=mid-1;
 }
 
 return -1;
