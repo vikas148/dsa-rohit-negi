@@ -1,0 +1,4 @@
+Origional data
+123 12 67 10 11 
+ Sorted data
+10 11 12 67 123 
