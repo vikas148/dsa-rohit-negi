@@ -81,7 +81,7 @@ class Solution{
     {
            // Your code here
            Node *head=arr[0];
-           for(int i=0;i<k;i++)
+           for(int i=0;i<K;i++)
            {
                head = merge(head,arr[i]);
                
