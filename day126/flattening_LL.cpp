@@ -145,7 +145,8 @@ Node * merge(Node *head1, Node* head2)
 
 Node *flatten(Node *root)
 {
-   // Your code here
+   // Your code here 
+   //
    Node *head1, *head2, *head3;
    
    while(root->next)
